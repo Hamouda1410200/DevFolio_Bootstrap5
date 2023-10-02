@@ -1777,6 +1777,9 @@ header p::after {
 .blog .card-body h5:hover {
     color: #0078ff;
 }
+.blog .row {
+    row-gap: 40px;
+}
 
 
 .contact h3 {
